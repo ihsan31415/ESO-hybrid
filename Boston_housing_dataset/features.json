@@ -1,0 +1,72 @@
+[
+    {
+      "acronym": "CRIM",
+      "english_explanation": "CRIM stands for per capita crime rate by town. It represents the level of crime incidence normalized by the population of each town in the Boston housing dataset.",
+      "indonesian_explanation": "CRIM adalah singkatan dari tingkat kejahatan per kapita berdasarkan kota. Ini menunjukkan tingkat kejadian kejahatan yang dinormalisasi oleh jumlah penduduk di setiap kota dalam dataset perumahan Boston."
+    },
+    {
+      "acronym": "ZN",
+      "english_explanation": "ZN stands for proportion of residential land zoned for lots over 25,000 sq.ft. It indicates the percentage of residential areas in each town that are designated for larger land parcels.",
+      "indonesian_explanation": "ZN adalah singkatan dari proporsi tanah perumahan yang diperuntukkan bagi lot lebih dari 25.000 kaki persegi. Ini menunjukkan persentase area perumahan di setiap kota yang diperuntukkan bagi lahan yang lebih luas."
+    },
+    {
+      "acronym": "INDUS",
+      "english_explanation": "INDUS stands for proportion of non-retail business acres per town. It represents the percentage of land in each town that is used for industrial or business purposes, excluding retail.",
+      "indonesian_explanation": "INDUS adalah singkatan dari proporsi hektar bisnis non-ritel per kota. Ini menunjukkan persentase lahan di setiap kota yang digunakan untuk tujuan industri atau bisnis, tidak termasuk ritel."
+    },
+    {
+      "acronym": "CHAS",
+      "english_explanation": "CHAS stands for Charles River dummy variable. It is a binary variable that takes the value 1 if the census tract bounds the Charles River, and 0 otherwise.",
+      "indonesian_explanation": "CHAS adalah singkatan dari variabel dummy Sungai Charles. Ini adalah variabel biner yang bernilai 1 jika batas sensus berbatasan dengan Sungai Charles, dan 0 jika tidak."
+    },
+    {
+      "acronym": "NOX",
+      "english_explanation": "NOX stands for nitrogen oxides concentration (parts per 10 million). It measures the level of nitrogen oxide pollutants in the air.",
+      "indonesian_explanation": "NOX adalah singkatan dari konsentrasi nitrogen oksida (bagian per 10 juta). Ini mengukur tingkat polutan nitrogen oksida di udara."
+    },
+    {
+      "acronym": "RM",
+      "english_explanation": "RM stands for average number of rooms per dwelling. It represents the mean number of rooms in the houses within each census tract.",
+      "indonesian_explanation": "RM adalah singkatan dari rata-rata jumlah kamar per hunian. Ini menunjukkan jumlah rata-rata kamar di rumah-rumah dalam setiap wilayah sensus."
+    },
+    {
+      "acronym": "AGE",
+      "english_explanation": "AGE stands for proportion of owner-occupied units built prior to 1940. It indicates the percentage of houses occupied by their owners that were built before the year 1940.",
+      "indonesian_explanation": "AGE adalah singkatan dari proporsi unit yang ditempati pemilik yang dibangun sebelum tahun 1940. Ini menunjukkan persentase rumah yang ditempati oleh pemiliknya yang dibangun sebelum tahun 1940."
+    },
+    {
+      "acronym": "DIS",
+      "english_explanation": "DIS stands for weighted distances to five Boston employment centres. It measures the accessibility to major job centers in Boston, with distances being weighted.",
+      "indonesian_explanation": "DIS adalah singkatan dari jarak tertimbang ke lima pusat pekerjaan Boston. Ini mengukur aksesibilitas ke pusat-pusat pekerjaan utama di Boston, dengan jarak yang diberi bobot."
+    },
+    {
+      "acronym": "RAD",
+      "english_explanation": "RAD stands for index of accessibility to radial highways. It is an index that indicates how easily accessible the area is to major radial highways.",
+      "indonesian_explanation": "RAD adalah singkatan dari indeks aksesibilitas ke jalan raya radial. Ini adalah indeks yang menunjukkan seberapa mudah suatu area dapat diakses dari jalan raya radial utama."
+    },
+    {
+      "acronym": "TAX",
+      "english_explanation": "TAX stands for full-value property tax rate per $10,000. It represents the amount of property tax levied for every $10,000 of assessed property value.",
+      "indonesian_explanation": "TAX adalah singkatan dari tarif pajak properti nilai penuh per $10.000. Ini menunjukkan jumlah pajak properti yang dikenakan untuk setiap $10.000 nilai properti yang dinilai."
+    },
+    {
+      "acronym": "PTRATIO",
+      "english_explanation": "PTRATIO stands for pupil-teacher ratio by town. It represents the number of students per teacher in the schools within each town.",
+      "indonesian_explanation": "PTRATIO adalah singkatan dari rasio murid-guru per kota. Ini menunjukkan jumlah siswa per guru di sekolah-sekolah dalam setiap kota."
+    },
+    {
+      "acronym": "B",
+      "english_explanation": "B is calculated as $1000(Bk - 0.63)^2$ where Bk is the proportion of blacks by town. It's a somewhat complex and potentially problematic measure related to the racial composition of the towns.",
+      "indonesian_explanation": "B dihitung sebagai $1000(Bk - 0.63)^2$ di mana Bk adalah proporsi penduduk kulit hitam per kota. Ini adalah ukuran yang agak kompleks dan berpotensi problematik yang berkaitan dengan komposisi rasial kota."
+    },
+    {
+      "acronym": "LSTAT",
+      "english_explanation": "LSTAT stands for percentage of lower status of the population. It indicates the proportion of residents in each town who are considered to be of lower socioeconomic status.",
+      "indonesian_explanation": "LSTAT adalah singkatan dari persentase penduduk dengan status sosial ekonomi rendah. Ini menunjukkan proporsi penduduk di setiap kota yang dianggap memiliki status sosial ekonomi rendah."
+    },
+    {
+      "acronym": "MEDV",
+      "english_explanation": "MEDV stands for median value of owner-occupied homes in $1000s. It represents the middle value of the prices of homes occupied by their owners within each census tract, expressed in thousands of dollars.",
+      "indonesian_explanation": "MEDV adalah singkatan dari nilai median rumah yang ditempati pemilik dalam ribuan dolar. Ini menunjukkan nilai tengah dari harga rumah yang ditempati oleh pemiliknya di setiap wilayah sensus, yang dinyatakan dalam ribuan dolar."
+    }
+  ]
